@@ -1,0 +1,76 @@
+================================================================================
+                    BẢN TỔNG HỢP NỘI DUNG & CẤU TRÚC
+                   WEBSITE PROFILE CÁ NHÂN (HỌC SINH)
+================================================================================
+
+1. TỔNG QUAN DỰ ÁN & CÔNG NGHỆ (TECH STACK)
+--------------------------------------------------------------------------------
+- Đối tượng: Học sinh THPT yêu thích Lập trình Thi đấu (Competitive Programming), 
+  Thuật toán & Công nghệ.
+- Công nghệ cốt lõi: HTML5, CSS3 (Biến CSS linh hoạt), JavaScript (Vanilla JS).
+- Tích hợp AI (Client-side): Sử dụng Transformers.js / TensorFlow.js chạy trực tiếp 
+  trên trình duyệt (không cần server backend) để trả lời thắc mắc của người dùng.
+
+2. HỆ THỐNG GIAO DIỆN & MÀU SẮC (THEME SWITCHER)
+--------------------------------------------------------------------------------
+Website hỗ trợ chuyển đổi linh hoạt giữa 3 chế độ (Lưu bằng localStorage):
+- Chế độ Sáng (Light Mode): Nền trắng sáng/xám nhạt (#f8fafc), chữ đậm (#0f172a), 
+  điểm nhấn xanh lam (#2563eb).
+- Chế độ Tối (Dark Mode): Nền xanh đen sâu kiểu Night Owl (#011627), chữ sáng (#f8fafc), 
+  điểm nhấn xanh ngọc Cyan (#22d3ee).
+- Chế độ Hệ thống (System Mode): Tự động đồng bộ với cài đặt thiết bị/trình duyệt 
+  thông qua CSS Media Query (@media prefers-color-scheme).
+
+3. CẤU TRÚC NỘI DUNG CHI TIẾT (11 SECTIONS)
+--------------------------------------------------------------------------------
+[01] HEADER & THEME SWITCHER
+     - Logo / Tên cá nhân.
+     - Thanh điều hướng cố định (Sticky Navigation).
+     - Bộ chuyển đổi Theme: Sáng / Tối / Hệ thống.
+
+[02] HERO SECTION
+     - Lời chào ấn tượng, tên, trường THPT đang theo học.
+     - Danh xưng & Định hướng (Competitive Programming & Thuật toán).
+     - Nút kêu gọi hành động (CTA) đến Projects / Contact.
+
+[03] ABOUT ME
+     - Tiểu sử ngắn gọn, hành trình đến với lập trình và tư duy thuật toán.
+     - Phương châm học tập và định hướng phát triển cá nhân.
+
+[04] TIMELINE & ACHIEVEMENTS (MỐC THỜI GIAN & THÀNH TÍCH)
+     - Trục thời gian hiển thị các sự kiện theo năm/tháng.
+     - Giải thưởng kỳ thi HSG Tin học, contest VNOI / Codeforces / AtCoder.
+     - Cột mốc xuất bản bài viết, repository hoặc hoạt động trường lớp.
+
+[05] SKILLS & ALGORITHMS
+     - Ngôn ngữ: C++, JavaScript, HTML/CSS, Python.
+     - Cấu trúc dữ liệu & Thuật toán: DP, Segment Tree, Fenwick, Graph/LCA, Hashing...
+     - Nền tảng chấm bài: Codeforces, AtCoder, VNOI.
+
+[06] MY SETUP & TECH STACK (GÓC HỌC TẬP & CÔNG CỤ YÊU THÍCH)
+     - Trình soạn thảo: VS Code (Theme Night Owl, Victor Mono font, Code Runner...).
+     - Hệ sinh thái học tập: Git/GitHub, LaTeX, Markdown, VitePress.
+     - Thiết bị & Môi trường tối ưu cho việc code & học tập.
+
+[07] PROJECTS & PROBLEM DESIGN
+     - Các dự án cá nhân, kho lưu trữ mã nguồn mở trên GitHub.
+     - Bộ đề / Test Generator sáng tác trên Polygon, Vietschool DMOJ.
+     - Tài liệu tổng hợp kiến thức thuật toán.
+
+[08] CREATIVE CORNER (GÓC SÁNG TẠO & VIẾT LÁCH)
+     - Lưu trữ thơ văn, tản văn học đường, kỷ niệm đáng nhớ.
+     - Thiết kế ấn phẩm truyền thông, bài viết chia sẻ chuyên môn.
+
+[09] CURRENT FOCUS & FUTURE GOALS (MỤC TIÊU TƯƠNG LAI)
+     - Ngắn hạn: Kỳ thi HSG Tin học (VOI), Kỳ thi Tốt nghiệp THPT.
+     - Dài hạn: Rèn luyện thuật toán nâng cao, phát triển các sản phẩm thực tế.
+
+[10] AI ASSISTANT WIDGET
+     - Chatbot AI chạy client-side góc màn hình.
+     - Trả lời tự động thông tin về profile, kỹ năng, dự án của bạn.
+
+[11] CONTACT & SOCIAL LINKS
+     - Thông tin liên hệ trực tiếp (Email).
+     - Link các trang profile: GitHub, Facebook, VNOI, Codeforces...
+
+================================================================================

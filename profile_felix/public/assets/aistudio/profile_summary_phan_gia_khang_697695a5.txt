@@ -1,0 +1,120 @@
+================================================================================
+                BẢN TỔNG HỢP NỘI DUNG & CẤU TRÚC WEBSITE PROFILE
+                         PHAN GIA KHANG (FELIX)
+================================================================================
+
+1. THÔNG TIN CÁ NHÂN & QUOTE HERO SECTION
+--------------------------------------------------------------------------------
+- Họ và tên: Phan Gia Khang
+- Biệt danh / Username: Felix
+- Ngày sinh: 30/11/2009
+- Trường / Lớp: Lớp 12A10 - Trường THPT Cái Nước
+- Địa chỉ: Ấp Phong Lưu, xã Tân Hưng, tỉnh Cà Mau
+- Quote cá nhân: "Chúa cho tôi 2 tay để code, không phải để níu kéo người con gái không thuộc về mình."
+
+2. TỔNG QUAN CÔNG NGHỆ & HỆ THỐNG GIAO DIỆN (THEMING)
+--------------------------------------------------------------------------------
+- Kiến trúc Frontend: HTML5, CSS3 (CSS Variables), JavaScript (Vanilla JS).
+- Chế độ Giao diện (Theme Switcher):
+  + Light Mode (Sáng): Nền #f8fafc, chữ #0f172a, nhấn #2563eb.
+  + Dark Mode (Tối): Nền #011627 (Night Owl), chữ #f8fafc, nhấn #22d3ee (Cyan).
+  + System Mode (Hệ thống): Tự động đồng bộ với thiết bị người dùng qua @media (prefers-color-scheme).
+  + Trạng thái được ghi nhớ bằng localStorage.
+- AI Assistant Widget (Client-side): 
+  + Tích hợp Transformers.js / TensorFlow.js chạy trực tiếp trên trình duyệt.
+  + Trợ lý ảo giải đáp thông tin về Felix (kỹ năng, thành tích, timeline, liên hệ).
+
+3. CHUỖI TIMELINE THÀNH TÍCH VÀ CỘT MỐC (2023 - 2026)
+--------------------------------------------------------------------------------
+[NĂM 2023]
+- 05/03/2023: Thi HSG vòng huyện - SBD: 254
+- 09/03/2023: Đạt Giải Nhất HSG vòng huyện - Điểm: 20/20
+- Tháng 01 - 02/2023: Đạt Giải Nhất HSG vòng huyện - Điểm: 20/20
+- Tháng 01 - 02/2023: Thi Casio vòng huyện - Giải Ba
+- 02/04/2023: Thi HSG vòng tỉnh
+- 09/04/2023: Thi Tin học trẻ vòng huyện - Đạt Giải Nhất (Điểm: 20/20)
+- 10/04/2023: Kết quả HSG vòng tỉnh - Đạt Giải Khuyến Khích (Điểm: 11.63/20)
+- 23/05/2023: Thi Tin học trẻ cấp tỉnh - Đạt Giải Nhất (Điểm: 20/20)
+- 24/06/2023: Thi Tin học trẻ khu vực Miền Nam (Điểm: 80/300)
+- 07/07/2023: Kết quả chính thức Tin học trẻ khu vực Miền Nam - Top 73
+- 27/12/2023: Thi Casio vòng trường (Điểm: 10/20)
+
+[NĂM 2024]
+- 30/03/2024: Thi Casio vòng tỉnh
+- 31/03/2024: Thi HSG vòng tỉnh
+- 03/04/2024: Đạt Giải Ba Casio cấp tỉnh
+- Tháng 04/2024: Đạt Giải Nhì HSG cấp tỉnh (Điểm: 19/20)
+- 23/05/2024: Cuộc thi KHKT cấp huyện - Đạt Giải Khuyến Khích
+- 09/06/2024: Thi Sơ khảo Tin học trẻ khu vực Miền Nam
+- 06/07/2024: Thi Tin học trẻ khu vực Miền Nam
+- 26/10/2024: Thi HSG vòng trường
+
+[NĂM 2025]
+- 05/04/2025: Thi Olympic 30/4 - SBD: 105068
+- 06/04/2025: Đạt Huy Chương Bạc Olympic 30/4 - Điểm: 8.88/20 - Top 42
+- 20/04/2025: Thi HSG cấp tỉnh
+- 25/04/2025: Kết quả HSG cấp tỉnh - Đạt Giải Ba
+- 27/05/2025: Thi Tin học trẻ cấp tỉnh - Đạt Giải Ba
+- 28/09/2025: Thi HSG cấp tỉnh vòng 2 - SBD: 5009
+- 07/10/2025: Kết quả HSG cấp tỉnh vòng 2 - Top 10 (Điểm: 6.7/40)
+- 25/12/2025: Thi Chọn Học sinh Giỏi Quốc gia (HSGQG) - SBD: 09.05.03
+
+[NĂM 2026]
+- 19/01/2026: Kết quả HSGQG - Đạt Giải Khuyến Khích Quốc Gia (Điểm: 13.5/40)
+- 08/03/2026: Thi HSG cấp tỉnh vòng 1 - SBD: 5037
+- 18/03/2026: Kết quả HSG cấp tỉnh vòng 1 - Đạt Giải Nhì (Điểm: 16.2/20)
+- 27/05/2026: Thi Tin học trẻ cấp tỉnh - Đạt Giải Ba
+- 26/07/2026: Thi HSG cấp tỉnh vòng 2 - SBD: 5013
+- 03/08/2026: Kết quả HSG cấp tỉnh vòng 2 - Đạt Top 1 (Điểm: 25.93/40)
+
+4. KỸ NĂNG & THUẬT TOÁN YÊU THÍCH (SKILLS & CP)
+--------------------------------------------------------------------------------
+- Ngôn ngữ lập trình chính: C++ (Chuyên sâu Lập trình thi đấu), JavaScript, HTML/CSS, Python.
+- Thuật toán & Cấu trúc dữ liệu thế mạnh:
+  + Segment Tree (Cây phân đoạn)
+  + Disjoint Set Union (DSU)
+  + String Hashing (Băm chuỗi)
+  + Quy hoạch động (Dynamic Programming), Đồ thị.
+- Nền tảng chấm bài & Thi đấu: Codeforces, AtCoder, VNOI, Vietschool DMOJ, Polygon.
+
+5. GÓC HỌC TẬP & SETUP (MY SETUP & TOOLS)
+--------------------------------------------------------------------------------
+- Trình soạn thảo (Editor): Visual Studio Code (VS Code)
+  + Theme: Night Owl
+  + Font chữ: Victor Mono
+  + Extensions: Code Runner, C/C++ Compile Run, Git Graph
+- Công cụ & Hệ sinh thái:
+  + Git / GitHub (Quản lý mã nguồn & Lưu trữ Algorithm Repository)
+  + LaTeX (Soạn thảo công thức toán học & tài liệu học thuật)
+  + Markdown & VitePress (Viết ghi chú & tài liệu giải thuật)
+  + Polygon (Sáng tác bộ đề & sinh testcase chuẩn)
+
+6. PROJECTS & SÁNG TÁC ĐỀ BÀI (PROJECTS & PROBLEM DESIGN)
+--------------------------------------------------------------------------------
+- Sáng tác bài tập trên Polygon & Vietschool DMOJ:
+  + Thiết kế đề bài, test generator, solution chuẩn bằng C++.
+- Repository thuật toán trên GitHub:
+  + Kho lưu trữ Code Snippets & Template C++ tối ưu cho Competitive Programming.
+- Các bài viết tổng hợp & phân tích thuật toán chuyên sâu.
+
+7. GÓC SÁNG TẠO & VIẾT LÁCH (CREATIVE CORNER)
+--------------------------------------------------------------------------------
+- Tản văn & Thơ văn: Nơi lưu giữ những xúc cảm tuổi học trò, kỷ niệm dưới mái trường THPT Cái Nước.
+- Thiết kế truyền thông: Ấn phẩm đồ họa cá nhân, thiết kế banner/poster sáng tạo bằng Canva.
+
+8. MỤC TIÊU TƯƠNG LAI (CURRENT FOCUS & FUTURE GOALS)
+--------------------------------------------------------------------------------
+- Ngắn hạn: 
+  + Ôn luyện chuyên sâu cho Kỳ thi Tốt nghiệp THPT QG.
+  + Tiếp tục gặt hái thành tích cao tại các kỳ thi Học sinh giỏi & Tin học trẻ.
+- Dài hạn:
+  + Theo học ngành Công nghệ thông tin / Khoa học máy tính tại trường Đại học hàng đầu.
+  + Nghiên cứu các thuật toán nâng cao và xây dựng các sản phẩm phần mềm thực tế.
+
+9. CONTACT & SOCIAL LINKS
+--------------------------------------------------------------------------------
+- Email: [Email cá nhân của Khang]
+- GitHub: [Link GitHub cá nhân]
+- Social Media: Facebook, Zalo, Tiktok
+- CP Profiles: VNOI, Codeforces, AtCoder
+================================================================================
